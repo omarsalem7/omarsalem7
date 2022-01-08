@@ -12,8 +12,13 @@ I’m Omar, a Sotware Engineer, creative coder and self-proclaimed designer who 
 ## &#x1f4c8; GitHub Stats
 <br>
 
-| <a href="https://github.com/omarsalem7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omarsalem7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Omar's github stats" /></a> | <a href="https://github.com/omarsalem7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsalem7&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/omarsalem7">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsalem7&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/omarsalem7">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=omarsalem7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Omar's GitHub Stats" />
+</a>
 
 <br>
 
