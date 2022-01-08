@@ -13,6 +13,13 @@ I’m Omar, a Sotware Engineer, creative coder and self-proclaimed designer who 
 <br>
 | <a href="https://github.com/omarsalem7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omarsalem7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Omar's github stats" /></a> | <a href="https://github.com/omarsalem7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsalem7&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <br>
 
 ## 💼 Skills
