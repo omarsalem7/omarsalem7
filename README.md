@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Omar80491499)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/omar-salem-a6945b177/)
 
-I’m Omar, a Sotware Engineer, with a love for React and Redux creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. Open to new opportunities.
+I’m Omar, a Software Engineer, with a love for React and Redux creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. Open to new opportunities.
 
 <!--Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)-->
 
