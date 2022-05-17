@@ -6,7 +6,8 @@
 
 I’m Omar, a Software Engineer, with a love for React and Redux creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. Open to new opportunities.
 
-<!-- Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)-->
+> Want to know more about me? [Check out my portfolio.](https://omarsalem7.github.io/Portfolio/)<br>
+> Reach me by email: omarsalem0721@gmail.com
 
 
 ##  GitHub Stats &#x1f4c8;
