@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Omar Salem](https://omarsalem7.github.io/Portfolio/)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Omar Salem](https://o-salem.netlify.app)!
 
 ![](https://komarev.com/ghpvc/?username=omarsalem7&label=VIEWS)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Omar80491499)
